@@ -1,0 +1,2 @@
+Unter diesem Pfad werden die Java Source Packages angelegt.
+Unser Base Package ist "com.cgi.bootcamp.practice"
