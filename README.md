@@ -124,3 +124,13 @@ Dir folgenden Links dienen für die Erläuterung der oben angesprochenen Konzept
 3. (factory) <https://www.baeldung.com/java-constructors-vs-static-factory-methods>
 4. (instantiation ;) <http://lmgtfy.com/?q=prevent+instantiation+of+class>
 5. (JSON linter) <https://jsonlint.com/>
+
+Nachträge:
+----------
+Die folgenden Dinge wurden von Teilnehmern angesprochen. Ich versuche die Fragen hier zu klären, die befolgung der hier genannten Dinge hat aber keinen Einfluß auf die Bewertung.
+
+09.09.2019
+Q: Soll für 'circle' der Radius oder Durchmesser als Parameter angegeben werden?
+A: Nehmt bitte, wenn möglich den Radius.
+
+
