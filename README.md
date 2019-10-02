@@ -131,6 +131,6 @@ Die folgenden Dinge wurden von Teilnehmern angesprochen. Ich versuche die Fragen
 
 09.09.2019
 Q: Soll für 'circle' der Radius oder Durchmesser als Parameter angegeben werden?
-A: Nehmt bitte, wenn möglich den Radius.
+A: Nehmt bitte, wenn möglich den Radius...
 
 
